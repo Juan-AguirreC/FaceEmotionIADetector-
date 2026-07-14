@@ -10,11 +10,9 @@ Este dataset contiene imágenes de rostros clasificadas en siete categorías de 
 | Clase | Emoción |
 |------|---------|
 | 0 | Angry |
-| 1 | Disgust |
-| 2 | Fear |
-| 3 | Happy |
-| 4 | Sad |
-| 5 | Surprise |
-| 6 | Neutral |
+| 1 | Happy |
+| 2 | Neutral |
+| 3 | Sad |
+| 4 | Surprise |
 
 El conjunto de datos fue utilizado para el entrenamiento, validación y evaluación del modelo de reconocimiento automático de emociones faciales.
